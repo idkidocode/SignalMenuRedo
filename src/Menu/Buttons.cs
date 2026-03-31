@@ -15,13 +15,12 @@ namespace SignalMenu
             new ButtonData("<--", CategoryActions.BackPage, false, 1, 99),
             new ButtonData("Return To Main", CategoryActions.ReturnToHome, false, 1, 99),
             new ButtonData("Speed Boost", MovementMods.SpeedBoost, true, 1, 1),
-            new ButtonData("Fly", MovementMods.Fly, true, 1, 2),
+            new ButtonData("Fly", MovementMods.Fly, true, 1, 1),
 
             //Visual Mods
             new ButtonData("-->", CategoryActions.NextPage, false, 2, 99),
             new ButtonData("<--", CategoryActions.BackPage, false, 2, 99),
             new ButtonData("Return To Main", CategoryActions.ReturnToHome, false, 2, 99),
-            new ButtonData("NameTags", RigMods.NameTags, true, 2, 1)
             
         };
 
