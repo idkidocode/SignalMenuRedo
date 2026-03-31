@@ -224,3 +224,4 @@
 /home/lucas/Documents/Code/c#/SignalMenuRedo/src/obj/Debug/netstandard2.1/SignalMenu.csproj.Up2Date
 /home/lucas/Documents/Code/c#/SignalMenuRedo/src/obj/Debug/netstandard2.1/SignalMenu.dll
 /home/lucas/Documents/Code/c#/SignalMenuRedo/src/obj/Debug/netstandard2.1/SignalMenu.pdb
+/home/lucas/Documents/Code/c#/SignalMenuRedo/src/obj/Debug/netstandard2.1/SignalMenu.sourcelink.json
