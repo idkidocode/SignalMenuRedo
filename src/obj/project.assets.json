@@ -8,19 +8,19 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "/home/lucas/.nuget/packages/": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lucas/Documents/Code/c#/SignalMenuRedo/src/SignalMenu.csproj",
+      "projectUniqueName": "/workspaces/SignalMenuRedo/src/SignalMenu.csproj",
       "projectName": "SignalMenu",
-      "projectPath": "/home/lucas/Documents/Code/c#/SignalMenuRedo/src/SignalMenu.csproj",
-      "packagesPath": "/home/lucas/.nuget/packages/",
-      "outputPath": "/home/lucas/Documents/Code/c#/SignalMenuRedo/src/obj/",
+      "projectPath": "/workspaces/SignalMenuRedo/src/SignalMenu.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/SignalMenuRedo/src/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/lucas/.nuget/NuGet/NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -60,18 +60,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "NETStandard.Library.Ref",
-            "version": "[2.1.0, 2.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "NETStandard.Library": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
